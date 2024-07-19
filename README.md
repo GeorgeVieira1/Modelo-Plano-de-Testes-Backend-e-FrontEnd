@@ -11,3 +11,28 @@ O escopo deste plano de teste é testar a funcionalidade e a usabilidade do apli
 • Para identificar e relatar quaisquer defeitos ou problemas no aplicativo.<br>
 • Para garantir que o aplicativo atenda aos requisitos especificados nas histórias de usuário e critérios de aceite e regras de negócio.<br>
 • Para garantir que o aplicativo seja amigável e fácil de navegar.<p>
+**2. Abordagem de teste**<p>
+**2.1. Tipos de testes**<p>
+Os seguintes tipos de teste serão usados ​​para testar o aplicativo:<p>
+• Testes funcionais<br>
+• Testes de usabilidade<p>
+ **2.2. Ferramentas de teste*<p>
+ As seguintes ferramentas de teste serão usadas para testar o aplicativo:<p>
+• Postman<br>
+• Azure Devops<p>
+**3. Casos de testes(Test Cases)**<p>
+Os seguintes casos de teste serão executados durante o teste do aplicativo:<p>
+• TC - Bairro com caractere especial<br>
+• TC - Cadastro de Fornecedor com sucesso<br>
+• TC - Cadastro de Fornecedor sem Bairro<br>
+• TC - Cadastro de Fornecedor sem CEP<br>
+• TC - Cadastro de Fornecedor sem Cidade<br>
+• TC - Cadastro de Fornecedor sem CNPJ<br>
+• TC - Cadastro de Fornecedor sem Descrição do serviço prestado<br>
+• TC - Cadastro de Fornecedor sem E-mail<br>
+• TC - Cadastro de Fornecedor sem Razão Social<br>
+• TC - Cadastro de Fornecedor sem Responsável pela empresa<br>
+• TC - Cadastro de Fornecedor sem UF<br>
+• TC - Cadastro de Fornecedor Vazio<br>
+• TC - Cadastro de Fornecedor Vazio<br>
+• TC - CEP com letras e caractere especial<p>
