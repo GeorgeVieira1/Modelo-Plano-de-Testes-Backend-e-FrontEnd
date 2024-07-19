@@ -36,3 +36,52 @@ Os seguintes casos de teste serão executados durante o teste do aplicativo:<p>
 • TC - Cadastro de Fornecedor Vazio<br>
 • TC - Cadastro de Fornecedor Vazio<br>
 • TC - CEP com letras e caractere especial<p>
+*Exemplo de TC (Test Case):*<p>
+
+*4. Execução do teste**<p>
+O seguinte ambiente de teste será usado para testar o aplicativo:<p>
+FontEnd<br>
+• Sistema operacional: Windows 10 Home<br>
+• Navegador: Google Chrome v.109.0.5414.120 Versão oficial de 64 bits<br>
+• Ferramenta de gerenciamento de testes: Azure ou Jira.<p>
+BackEnd<br>
+• Postman<br>
+• Newman<p>
+**4.1. Processo de execução de teste**<p>
+As seguintes etapas serão tomadas para executar os casos de teste:<p>
+• Os casos de teste serão atribuídos ao testador pelo Test Manager.<br>
+• O testador executará os casos de teste e relatará quaisquer defeitos ou problemas encontrados durante o teste.<br>
+• O Test Manager revisará os relatórios de teste.<br>
+• O testador priorizará os defeitos com base em sua gravidade.<br>
+• Os desenvolvedores corrigirão os defeitos e os enviarão para novo teste.<br>
+• O testador testará novamente os defeitos e confirmará as correções.<br>
+**5.  Entregas de teste**<p>
+Os seguintes resultados de teste serão produzidos durante o teste do aplicativo:<p>
+• Plano de teste<br>
+• Especificações do caso de teste<br>
+• Relatório de execução do teste<br>
+• Relatório de bug<p>
+**6. Conclusão**<p>
+Este plano de teste fornece um guia abrangente para testar o aplicativo. A abordagem de teste descrita neste plano garante que o aplicativo atenda aos requisitos especificados nas histórias de usuário e wireframes e seja amigável ao usuário e tenha bom desempenho. Os resultados de teste produzidos durante o processo de teste fornecerão informações valiosas à equipe do projeto para melhorar a qualidade do aplicativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
