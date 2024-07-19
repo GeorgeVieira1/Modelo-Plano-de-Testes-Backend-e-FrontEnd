@@ -23,6 +23,9 @@ Os seguintes tipos de teste serão usados ​​para testar o aplicativo:<p>
  As seguintes ferramentas de teste serão usadas para testar o aplicativo:<p>
 • Postman<br>
 • Azure Devops<p>
+Exemplo de como o plano de testes fica organizado no Azure:<p>
+![image](https://github.com/user-attachments/assets/dbdf8923-ec77-4519-89bf-b44dcccdfc29)
+
 - ---
 **3. Casos de testes(Test Cases)**<p>
 Os seguintes casos de teste serão executados durante o teste do aplicativo:<p>
